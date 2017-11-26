@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staing area prepares us for the files we want to commit. 
+as we can choose differenet files we want to commit together or seperatly by seperated commands
